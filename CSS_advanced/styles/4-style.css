@@ -12,8 +12,8 @@ html {
     scroll-behavior: smooth;
 }
 body {
-    color:var(--text-color)
-    font-family: var(--font-family-base)
+    color: var(--text-color)
+    font-family: var(--font-family-base);
 }
 a {
     color:#161616
